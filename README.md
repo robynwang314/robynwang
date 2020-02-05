@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty- Random Quote Generator
 
-Things you may want to cover:
+A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launched on Heroku.
 
-* Ruby version
+<img src="/app/assets/images/home.png" alt="App homepage">
+<img src="/app/assets/images/contribute.png" alt="Contribute Quote">
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link: https://splurty-robyn-wang.herokuapp.com
+Git hub: https://github.com/robynwang314/robynwang
