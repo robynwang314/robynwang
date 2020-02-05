@@ -8,4 +8,5 @@ A database-powered quote generator with a mobile-first design, using the Ruby on
 <img src="/app/assets/images/contribute.png" alt="Contribute Quote">
 
 Link: https://splurty-robyn-wang.herokuapp.com
-Git hub: https://github.com/robynwang314/robynwang
+
+Github: https://github.com/robynwang314/robynwang
